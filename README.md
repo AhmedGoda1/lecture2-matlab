@@ -1,8 +1,6 @@
-# RF Communication – Lecture 2 MATLAB Assignments
+# RF Communication – Lecture 2 MATLAB Assignments 
 
- 
-
-**Student:** <Name> 
+**Student:** Ahmed Daba 
 
 **Student ID: 2326182
 
